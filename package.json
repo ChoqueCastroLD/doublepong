@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/ChoqueCastroLD/doublepong/issues"
   },
-  "homepage": "https://github.com/ChoqueCastroLD/doublepong#readme"
+  "homepage": "https://github.com/ChoqueCastroLD/doublepong#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mandatoryenv": "^3.0.1",
+    "whiz-logger": "^1.1.2"
+  }
 }
