@@ -1,0 +1,20 @@
+{
+  "name": "doublepong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/server.js",
+  "scripts": {
+    "start": "node app/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChoqueCastroLD/doublepong.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChoqueCastroLD/doublepong/issues"
+  },
+  "homepage": "https://github.com/ChoqueCastroLD/doublepong#readme"
+}
